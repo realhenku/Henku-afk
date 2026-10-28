@@ -4,9 +4,10 @@ I'm a student from Russia. I like creating simple programs or games.
 
 A little bit about me:
 
-- I'm currently working on my personal web page 
-- I'm currently learning HTML, CSS, JS
-- You can reach me in discord: henku#4775
+- I'm currently working on my personal online FPS game
+- I'm currently learning C++, C# and GDScript
+- Fullstack Developer. Want to find a good job.
+- You can reach me in discord: @realhenku
 - Fun fact: I'm lazy 
 <!--
 **Henku-afk/Henku-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
