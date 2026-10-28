@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-I'm a student from Russia. I like creating simple programs or games.
+I'm a guy from Russia. I like creating simple programs or games.
 
 A little bit about me:
 
